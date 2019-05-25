@@ -9,7 +9,7 @@ public abstract class Pessoa {
 	
 	public abstract void setNome(String nome);
 	
-	public abstract int getCpf();
+	public abstract String getCpf();
 	
 	public abstract void setCpf(int cpf);
 	
